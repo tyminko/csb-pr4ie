@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{159:function(t,e,n){"use strict";n.r(e);var l=n(23),component=Object(l.a)({},function(){var t=this.$createElement;return(this._self._c||t)("section",[this._v("Visit the /featured slug")])},[],!1,null,null,null);e.default=component.exports}}]);
